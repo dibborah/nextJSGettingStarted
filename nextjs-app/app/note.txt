@@ -1,0 +1,3 @@
+in next js all component inside the app folder are server components by default
+
+This are server components and rendered on the server
